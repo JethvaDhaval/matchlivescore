@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/matchlivescore/static/css/main.3e98d283.chunk.css",
+    "main.js": "/matchlivescore/static/js/main.d1a5742e.chunk.js",
+    "main.js.map": "/matchlivescore/static/js/main.d1a5742e.chunk.js.map",
+    "runtime-main.js": "/matchlivescore/static/js/runtime-main.82767a9c.js",
+    "runtime-main.js.map": "/matchlivescore/static/js/runtime-main.82767a9c.js.map",
+    "static/js/2.bb674a76.chunk.js": "/matchlivescore/static/js/2.bb674a76.chunk.js",
+    "static/js/2.bb674a76.chunk.js.map": "/matchlivescore/static/js/2.bb674a76.chunk.js.map",
+    "index.html": "/matchlivescore/index.html",
+    "precache-manifest.0f8cd77975aa90fcccdbd83eebbe7905.js": "/matchlivescore/precache-manifest.0f8cd77975aa90fcccdbd83eebbe7905.js",
+    "service-worker.js": "/matchlivescore/service-worker.js",
+    "static/css/main.3e98d283.chunk.css.map": "/matchlivescore/static/css/main.3e98d283.chunk.css.map",
+    "static/js/2.bb674a76.chunk.js.LICENSE.txt": "/matchlivescore/static/js/2.bb674a76.chunk.js.LICENSE.txt",
+    "static/media/vs.jpg": "/matchlivescore/static/media/vs.f739b6cc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82767a9c.js",
+    "static/js/2.bb674a76.chunk.js",
+    "static/css/main.3e98d283.chunk.css",
+    "static/js/main.d1a5742e.chunk.js"
+  ]
+}
